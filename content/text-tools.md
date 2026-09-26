@@ -554,7 +554,8 @@ title = "Text Tools"
 * [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
 * [psd_fonts](https://vk.com/psd_fonts)
 * [1001 Free Fonts](https://www.1001freefonts.com/)
-
+* [Dafont Dl](https://dafontdl.com)
+  
 ***
 
 # ► Font Tools
